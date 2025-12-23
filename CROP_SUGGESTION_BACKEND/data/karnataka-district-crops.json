@@ -1,0 +1,1890 @@
+{
+  "description": "Karnataka District-wise Crop Database (2020-21) - All crops grown in each district",
+  "state": "Karnataka",
+  "districts": [
+    {
+      "id": "bagalkote",
+      "name": "Bagalkote",
+      "kannada_name": "ಬಾಗಲಕೋಟೆ",
+      "location": {
+        "latitude": 15.5597,
+        "longitude": 75.6544,
+        "region": "North Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 28,
+        "avg_rainfall": 500,
+        "soil_type": "black soil, loamy"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Wheat",
+          "kannada_name": "ಗೋಧಿ",
+          "season": "rabi",
+          "area_ha": 31407,
+          "production_tonnes": 62845,
+          "yield_kg_ha": 2001,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam"
+            ],
+            "min_nitrogen": 60,
+            "max_nitrogen": 120,
+            "min_phosphorus": 25,
+            "max_phosphorus": 70,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.8,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 10,
+            "max_temperature": 25,
+            "min_rainfall": 30,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 61525,
+          "production_tonnes": 277170,
+          "yield_kg_ha": 4505,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Bajra",
+          "kannada_name": "ಬಾಜ್ರ",
+          "season": "kharif",
+          "area_ha": 37379,
+          "production_tonnes": 71543,
+          "yield_kg_ha": 1914,
+          "soil_requirements": {
+            "soil_types": [
+              "sandy loam",
+              "loamy"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 32,
+            "min_rainfall": 30,
+            "min_humidity": 30,
+            "max_humidity": 75
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Jowar",
+          "kannada_name": "ಜೋಳ",
+          "season": "kharif",
+          "area_ha": 1591,
+          "production_tonnes": 4918,
+          "yield_kg_ha": 3091,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "black soil",
+              "clay loam"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 30,
+            "max_potassium": 80,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 18,
+            "max_temperature": 30,
+            "min_rainfall": 40,
+            "min_humidity": 35,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Tur (Pigeon Pea)",
+          "kannada_name": "ತೋಗರಿ",
+          "season": "kharif",
+          "area_ha": 51972,
+          "production_tonnes": 45579,
+          "yield_kg_ha": 877,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "black soil"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 6.0,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 60,
+            "min_humidity": 45,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "belagavi",
+      "name": "Belagavi",
+      "kannada_name": "ಬೆಳಗಾವಿ",
+      "location": {
+        "latitude": 15.8597,
+        "longitude": 74.5037,
+        "region": "North Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 26,
+        "avg_rainfall": 650,
+        "soil_type": "black soil, loamy"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 161489,
+          "production_tonnes": 719111,
+          "yield_kg_ha": 4453,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Jowar",
+          "kannada_name": "ಜೋಳ",
+          "season": "rabi",
+          "area_ha": 136194,
+          "production_tonnes": 164114,
+          "yield_kg_ha": 1205,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "black soil",
+              "clay loam"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 30,
+            "max_potassium": 80,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 18,
+            "max_temperature": 30,
+            "min_rainfall": 40,
+            "min_humidity": 35,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Cotton",
+          "kannada_name": "ಹೊಳೆ",
+          "season": "kharif",
+          "area_ha": 12000,
+          "production_tonnes": 3500,
+          "yield_kg_ha": 290,
+          "soil_requirements": {
+            "soil_types": [
+              "black soil",
+              "loamy",
+              "clay loam"
+            ],
+            "min_nitrogen": 50,
+            "max_nitrogen": 100,
+            "min_phosphorus": 25,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 80,
+            "min_ph": 6.5,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 21,
+            "max_temperature": 30,
+            "min_rainfall": 60,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Sugarcane",
+          "kannada_name": "ಬೆಳ್ಳುಬೀಜ",
+          "season": "all_seasons",
+          "area_ha": 45000,
+          "production_tonnes": 3200000,
+          "yield_kg_ha": 71111,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "alluvial"
+            ],
+            "min_nitrogen": 100,
+            "max_nitrogen": 200,
+            "min_phosphorus": 40,
+            "max_phosphorus": 100,
+            "min_potassium": 60,
+            "max_potassium": 150,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 100,
+            "min_humidity": 60,
+            "max_humidity": 90
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Tur",
+          "kannada_name": "ತೋಗರಿ",
+          "season": "kharif",
+          "area_ha": 14452,
+          "production_tonnes": 6113,
+          "yield_kg_ha": 423,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "black soil"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 6.0,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 60,
+            "min_humidity": 45,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "ballari",
+      "name": "Ballari",
+      "kannada_name": "ಬಳ್ಳಾರಿ",
+      "location": {
+        "latitude": 15.1394,
+        "longitude": 76.9277,
+        "region": "East-Central Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 27,
+        "avg_rainfall": 450,
+        "soil_type": "loamy, black soil"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 107105,
+          "production_tonnes": 474796,
+          "yield_kg_ha": 4433,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 187363,
+          "production_tonnes": 738960,
+          "yield_kg_ha": 3944,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 10831,
+          "production_tonnes": 14394,
+          "yield_kg_ha": 1329,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Jowar",
+          "kannada_name": "ಜೋಳ",
+          "season": "kharif",
+          "area_ha": 11265,
+          "production_tonnes": 36071,
+          "yield_kg_ha": 3202,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "black soil",
+              "clay loam"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 30,
+            "max_potassium": 80,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 18,
+            "max_temperature": 30,
+            "min_rainfall": 40,
+            "min_humidity": 35,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "hassan",
+      "name": "Hassan",
+      "kannada_name": "ಹಾಸನ",
+      "location": {
+        "latitude": 13.201,
+        "longitude": 75.7139,
+        "region": "Southern Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 23,
+        "avg_rainfall": 900,
+        "soil_type": "laterite, loamy"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 72289,
+          "production_tonnes": 76626,
+          "yield_kg_ha": 1060,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 119271,
+          "production_tonnes": 457166,
+          "yield_kg_ha": 3833,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 38962,
+          "production_tonnes": 96976,
+          "yield_kg_ha": 2489,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Coffee",
+          "kannada_name": "ಕಾಫಿ",
+          "season": "all_seasons",
+          "area_ha": 15000,
+          "production_tonnes": 3500,
+          "yield_kg_ha": 233,
+          "soil_requirements": {
+            "soil_types": [
+              "laterite",
+              "loamy"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 120,
+            "min_phosphorus": 40,
+            "max_phosphorus": 80,
+            "min_potassium": 100,
+            "max_potassium": 150,
+            "min_ph": 5.5,
+            "max_ph": 6.5,
+            "moisture_types": [
+              "high"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 150,
+            "min_humidity": 70,
+            "max_humidity": 90
+          }
+        }
+      ]
+    },
+    {
+      "id": "mandya",
+      "name": "Mandya",
+      "kannada_name": "ಮಾಂಡ್ಯ",
+      "location": {
+        "latitude": 12.5539,
+        "longitude": 76.1782,
+        "region": "South-Central Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 25,
+        "avg_rainfall": 650,
+        "soil_type": "black soil, loamy"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Sugarcane",
+          "kannada_name": "ಬೆಳ್ಳುಬೀಜ",
+          "season": "all_seasons",
+          "area_ha": 50000,
+          "production_tonnes": 3500000,
+          "yield_kg_ha": 70000,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "alluvial"
+            ],
+            "min_nitrogen": 100,
+            "max_nitrogen": 200,
+            "min_phosphorus": 40,
+            "max_phosphorus": 100,
+            "min_potassium": 60,
+            "max_potassium": 150,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 100,
+            "min_humidity": 60,
+            "max_humidity": 90
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 55660,
+          "production_tonnes": 89279,
+          "yield_kg_ha": 1604,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 57238,
+          "production_tonnes": 179269,
+          "yield_kg_ha": 3132,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        }
+      ]
+    },
+    {
+      "id": "mysuru",
+      "name": "Mysuru",
+      "kannada_name": "ಮೈಸೂರು",
+      "location": {
+        "latitude": 12.2958,
+        "longitude": 76.6394,
+        "region": "Southern Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 23,
+        "avg_rainfall": 700,
+        "soil_type": "loamy, black soil"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 76458,
+          "production_tonnes": 231515,
+          "yield_kg_ha": 3028,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 51911,
+          "production_tonnes": 87730,
+          "yield_kg_ha": 1690,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Silk",
+          "kannada_name": "ರೇಷ್ಮೆ",
+          "season": "all_seasons",
+          "area_ha": 8000,
+          "production_tonnes": 1200,
+          "yield_kg_ha": 150,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy"
+            ],
+            "min_nitrogen": 60,
+            "max_nitrogen": 100,
+            "min_phosphorus": 30,
+            "max_phosphorus": 70,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium",
+              "high"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 100,
+            "min_humidity": 60,
+            "max_humidity": 85
+          }
+        }
+      ]
+    },
+    {
+      "id": "raichur",
+      "name": "Raichur",
+      "kannada_name": "ರೈಚೂರು",
+      "location": {
+        "latitude": 14.3648,
+        "longitude": 76.5701,
+        "region": "East-Central Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 28,
+        "avg_rainfall": 400,
+        "soil_type": "black soil"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 187324,
+          "production_tonnes": 723258,
+          "yield_kg_ha": 3861,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Jowar",
+          "kannada_name": "ಜೋಳ",
+          "season": "rabi",
+          "area_ha": 48066,
+          "production_tonnes": 61188,
+          "yield_kg_ha": 1273,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "black soil",
+              "clay loam"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 30,
+            "max_potassium": 80,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 18,
+            "max_temperature": 30,
+            "min_rainfall": 40,
+            "min_humidity": 35,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Tur",
+          "kannada_name": "ತೋಗರಿ",
+          "season": "kharif",
+          "area_ha": 153093,
+          "production_tonnes": 108390,
+          "yield_kg_ha": 708,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "black soil"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 6.0,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 60,
+            "min_humidity": 45,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "bangalore",
+      "name": "Bangalore",
+      "kannada_name": "ಬೆಂಗಳೂರು",
+      "location": {
+        "latitude": 13.1939,
+        "longitude": 77.5941,
+        "region": "South-Central Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 24,
+        "avg_rainfall": 809,
+        "soil_type": "red loamy, laterite"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 54484,
+          "production_tonnes": 65381,
+          "yield_kg_ha": 1200,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "general": {
+              "min_temperature": 15,
+              "max_temperature": 28,
+              "min_rainfall": 40,
+              "min_humidity": 40,
+              "max_humidity": 80
+            },
+            "seasonal": {
+              "kharif": {
+                "min_temperature": 15,
+                "max_temperature": 28,
+                "min_rainfall": 40,
+                "max_rainfall": 100,
+                "min_humidity": 40,
+                "max_humidity": 80,
+                "notes": "Best growing season, abundant rainfall"
+              },
+              "rabi": {
+                "min_temperature": 10,
+                "max_temperature": 25,
+                "min_rainfall": 20,
+                "max_rainfall": 50,
+                "min_humidity": 35,
+                "max_humidity": 70,
+                "notes": "Grown in dry zones with stored soil moisture"
+              },
+              "summer": {
+                "min_temperature": 20,
+                "max_temperature": 35,
+                "min_rainfall": 10,
+                "max_rainfall": 30,
+                "min_humidity": 25,
+                "max_humidity": 60,
+                "notes": "Not ideal, drought-resistant varieties only"
+              }
+            }
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 23500,
+          "production_tonnes": 105750,
+          "yield_kg_ha": 4500,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "general": {
+              "min_temperature": 15,
+              "max_temperature": 30,
+              "min_rainfall": 50,
+              "min_humidity": 50,
+              "max_humidity": 85
+            },
+            "seasonal": {
+              "kharif": {
+                "min_temperature": 15,
+                "max_temperature": 30,
+                "min_rainfall": 50,
+                "max_rainfall": 150,
+                "min_humidity": 50,
+                "max_humidity": 85,
+                "notes": "Optimal growth with monsoon rains"
+              },
+              "rabi": {
+                "min_temperature": 12,
+                "max_temperature": 28,
+                "min_rainfall": 40,
+                "max_rainfall": 80,
+                "min_humidity": 45,
+                "max_humidity": 75,
+                "notes": "Post-monsoon cultivation with irrigation"
+              },
+              "summer": {
+                "min_temperature": 22,
+                "max_temperature": 35,
+                "min_rainfall": 30,
+                "max_rainfall": 60,
+                "min_humidity": 40,
+                "max_humidity": 70,
+                "notes": "Requires intensive irrigation"
+              }
+            }
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Cowpea",
+          "kannada_name": "ಕಾವುಳಿ",
+          "season": "kharif",
+          "area_ha": 8900,
+          "production_tonnes": 6270,
+          "yield_kg_ha": 704,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 0,
+            "max_nitrogen": 40,
+            "min_phosphorus": 15,
+            "max_phosphorus": 45,
+            "min_potassium": 20,
+            "max_potassium": 50,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "general": {
+              "min_temperature": 18,
+              "max_temperature": 30,
+              "min_rainfall": 40,
+              "min_humidity": 40,
+              "max_humidity": 80
+            },
+            "seasonal": {
+              "kharif": {
+                "min_temperature": 18,
+                "max_temperature": 30,
+                "min_rainfall": 40,
+                "max_rainfall": 100,
+                "min_humidity": 40,
+                "max_humidity": 80,
+                "notes": "Primary season for cowpea"
+              },
+              "rabi": {
+                "min_temperature": 15,
+                "max_temperature": 28,
+                "min_rainfall": 30,
+                "max_rainfall": 60,
+                "min_humidity": 35,
+                "max_humidity": 70,
+                "notes": "With post-monsoon moisture"
+              },
+              "summer": {
+                "min_temperature": 22,
+                "max_temperature": 32,
+                "min_rainfall": 20,
+                "max_rainfall": 50,
+                "min_humidity": 35,
+                "max_humidity": 65,
+                "notes": "Drought-tolerant variety needed"
+              }
+            }
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Sugarcane",
+          "kannada_name": "ಬೆಳ್ಳುಬೀಜ",
+          "season": "all_seasons",
+          "area_ha": 5600,
+          "production_tonnes": 350000,
+          "yield_kg_ha": 62500,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "clay loam",
+              "alluvial"
+            ],
+            "min_nitrogen": 100,
+            "max_nitrogen": 200,
+            "min_phosphorus": 40,
+            "max_phosphorus": 100,
+            "min_potassium": 60,
+            "max_potassium": 150,
+            "min_ph": 6.0,
+            "max_ph": 8.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "general": {
+              "min_temperature": 20,
+              "max_temperature": 30,
+              "min_rainfall": 100,
+              "min_humidity": 60,
+              "max_humidity": 90
+            },
+            "seasonal": {
+              "kharif": {
+                "min_temperature": 20,
+                "max_temperature": 30,
+                "min_rainfall": 100,
+                "max_rainfall": 200,
+                "min_humidity": 60,
+                "max_humidity": 90,
+                "notes": "Good for rainfed areas"
+              },
+              "rabi": {
+                "min_temperature": 18,
+                "max_temperature": 28,
+                "min_rainfall": 80,
+                "max_rainfall": 150,
+                "min_humidity": 55,
+                "max_humidity": 85,
+                "notes": "Extended crushing season"
+              },
+              "summer": {
+                "min_temperature": 22,
+                "max_temperature": 32,
+                "min_rainfall": 120,
+                "max_rainfall": 180,
+                "min_humidity": 60,
+                "max_humidity": 85,
+                "notes": "Year-round cultivation possible"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "chikkaballapura",
+      "name": "Chikkaballapura",
+      "kannada_name": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+      "location": {
+        "latitude": 13.6288,
+        "longitude": 77.2197,
+        "region": "East Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 24,
+        "avg_rainfall": 750,
+        "soil_type": "red loamy, laterite"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 55801,
+          "production_tonnes": 261846,
+          "yield_kg_ha": 4690,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 46032,
+          "production_tonnes": 50835,
+          "yield_kg_ha": 1105,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Tomato",
+          "kannada_name": "ಪನಿ",
+          "season": "rabi",
+          "area_ha": 2400,
+          "production_tonnes": 48000,
+          "yield_kg_ha": 20000,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "well-drained"
+            ],
+            "min_nitrogen": 60,
+            "max_nitrogen": 120,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 60,
+            "max_potassium": 150,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Potato",
+          "kannada_name": "ಆಲು",
+          "season": "rabi",
+          "area_ha": 1800,
+          "production_tonnes": 36000,
+          "yield_kg_ha": 20000,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "well-drained"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 40,
+            "max_phosphorus": 100,
+            "min_potassium": 80,
+            "max_potassium": 150,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 10,
+            "max_temperature": 22,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Groundnut",
+          "kannada_name": "ಮೆಣಸು",
+          "season": "kharif",
+          "area_ha": 3800,
+          "production_tonnes": 3610,
+          "yield_kg_ha": 950,
+          "soil_requirements": {
+            "soil_types": [
+              "sandy loam",
+              "loamy",
+              "well-drained"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 25,
+            "max_phosphorus": 70,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "kolar",
+      "name": "Kolar",
+      "kannada_name": "ಕೋಲಾರ",
+      "location": {
+        "latitude": 13.1472,
+        "longitude": 78.129,
+        "region": "East Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 25,
+        "avg_rainfall": 680,
+        "soil_type": "red loamy, black soil"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 50637,
+          "production_tonnes": 68803,
+          "yield_kg_ha": 1358,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Rice",
+          "kannada_name": "ರೈತ",
+          "season": "kharif",
+          "area_ha": 7096,
+          "production_tonnes": 19234,
+          "yield_kg_ha": 2710,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 845,
+          "production_tonnes": 2122,
+          "yield_kg_ha": 2511,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Sunflower",
+          "kannada_name": "ಸೂರ್ಯಮುಖಿ",
+          "season": "kharif",
+          "area_ha": 4500,
+          "production_tonnes": 4500,
+          "yield_kg_ha": 1000,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 50,
+            "max_nitrogen": 100,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Groundnut",
+          "kannada_name": "ಮೆಣಸು",
+          "season": "kharif",
+          "area_ha": 2800,
+          "production_tonnes": 2240,
+          "yield_kg_ha": 800,
+          "soil_requirements": {
+            "soil_types": [
+              "sandy loam",
+              "loamy",
+              "well-drained"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 25,
+            "max_phosphorus": 70,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": "tumkur",
+      "name": "Tumkur",
+      "kannada_name": "ತುಮ್ಕೂರು",
+      "location": {
+        "latitude": 13.2159,
+        "longitude": 75.241,
+        "region": "South-Central Karnataka"
+      },
+      "climate": {
+        "avg_temperature": 24,
+        "avg_rainfall": 700,
+        "soil_type": "black soil, loamy"
+      },
+      "major_crops": [
+        {
+          "rank": 1,
+          "name": "Ragi",
+          "kannada_name": "ರಾಗಿ",
+          "season": "kharif",
+          "area_ha": 68900,
+          "production_tonnes": 82680,
+          "yield_kg_ha": 1200,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam"
+            ],
+            "min_nitrogen": 30,
+            "max_nitrogen": 80,
+            "min_phosphorus": 15,
+            "max_phosphorus": 50,
+            "min_potassium": 20,
+            "max_potassium": 60,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 28,
+            "min_rainfall": 40,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 2,
+          "name": "Maize",
+          "kannada_name": "ಜೋಳೆ",
+          "season": "kharif",
+          "area_ha": 45600,
+          "production_tonnes": 205200,
+          "yield_kg_ha": 4500,
+          "soil_requirements": {
+            "soil_types": [
+              "loamy",
+              "sandy loam",
+              "clay loam"
+            ],
+            "min_nitrogen": 80,
+            "max_nitrogen": 150,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 6.0,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 15,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 50,
+            "max_humidity": 85
+          }
+        },
+        {
+          "rank": 3,
+          "name": "Paddy",
+          "kannada_name": "ಧಾನ್ಯ",
+          "season": "kharif",
+          "area_ha": 18700,
+          "production_tonnes": 65450,
+          "yield_kg_ha": 3500,
+          "soil_requirements": {
+            "soil_types": [
+              "clayey",
+              "loamy",
+              "clay"
+            ],
+            "min_nitrogen": 40,
+            "max_nitrogen": 100,
+            "min_phosphorus": 20,
+            "max_phosphorus": 60,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "high",
+              "medium"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 35,
+            "min_rainfall": 150,
+            "min_humidity": 60,
+            "max_humidity": 95
+          }
+        },
+        {
+          "rank": 4,
+          "name": "Groundnut",
+          "kannada_name": "ಮೆಣಸು",
+          "season": "kharif",
+          "area_ha": 12800,
+          "production_tonnes": 12800,
+          "yield_kg_ha": 1000,
+          "soil_requirements": {
+            "soil_types": [
+              "sandy loam",
+              "loamy",
+              "well-drained"
+            ],
+            "min_nitrogen": 20,
+            "max_nitrogen": 60,
+            "min_phosphorus": 25,
+            "max_phosphorus": 70,
+            "min_potassium": 40,
+            "max_potassium": 100,
+            "min_ph": 5.5,
+            "max_ph": 7.5,
+            "moisture_types": [
+              "medium",
+              "low"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 20,
+            "max_temperature": 30,
+            "min_rainfall": 50,
+            "min_humidity": 40,
+            "max_humidity": 80
+          }
+        },
+        {
+          "rank": 5,
+          "name": "Coconut",
+          "kannada_name": "ತೆಂಗಿನಚೆಲೆ",
+          "season": "all_seasons",
+          "area_ha": 6400,
+          "production_tonnes": 320000,
+          "yield_kg_ha": 50000,
+          "soil_requirements": {
+            "soil_types": [
+              "sandy",
+              "sandy loam",
+              "alluvial"
+            ],
+            "min_nitrogen": 60,
+            "max_nitrogen": 120,
+            "min_phosphorus": 30,
+            "max_phosphorus": 80,
+            "min_potassium": 100,
+            "max_potassium": 200,
+            "min_ph": 5.5,
+            "max_ph": 8.0,
+            "moisture_types": [
+              "high"
+            ]
+          },
+          "climate_requirements": {
+            "min_temperature": 25,
+            "max_temperature": 32,
+            "min_rainfall": 150,
+            "min_humidity": 70,
+            "max_humidity": 95
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+web: gunicorn -k uvicorn.workers.UvicornWorker CROP_SUGGESTION_BACKEND.app.main:app --bind 0.0.0.0:$PORT --workers 2
