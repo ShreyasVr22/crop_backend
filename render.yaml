@@ -5,8 +5,8 @@ services:
     region: oregon
     plan: free
     branch: main
-    buildCommand: pip install -r CROP_SUGGESTION_BACKEND/requirements.txt
-    startCommand: gunicorn -k uvicorn.workers.UvicornWorker CROP_SUGGESTION_BACKEND.app.main:app --bind 0.0.0.0:$PORT --workers 2
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn -k uvicorn.workers.UvicornWorker app.main:app --bind 0.0.0.0:$PORT --workers 2
     healthCheckPath: /health
     envVars:
       - key: WEATHER_API_KEY
